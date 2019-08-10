@@ -1,0 +1,9 @@
+---
+layout: page
+title: Portfolio
+---
+{% for portfolio in site.portfolio %}
+<div class="portfolio">
+<h2><a href="{{ portfolio.url }}">{{ portfolio.title }}</a></h2>
+</div>
+{% endfor %}

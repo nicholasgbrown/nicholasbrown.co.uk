@@ -1,0 +1,96 @@
+---
+---
+
+ @import "minima";
+
+ @import "bootstrap/bootstrap";
+
+.wrapper {
+    margin-top: 15px;
+} 
+
+img {
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+body {
+background-color: #f9f7ed;
+font-family: 'Inconsolata', monospace;
+ }
+
+ a, a:visited, a:hover {
+     color: black; 
+     text-decoration: none;
+ }
+
+ .post a {
+    border-bottom: 1px dotted #660000;
+ }
+
+ .post a:hover {
+     border-bottom: 1px solid #660000;
+ }
+
+ .dropdown a {
+     color: black;
+ }
+
+ .navbar-light .navbar-nav .nav-link {
+    color: black;
+ }
+ .navbar {
+     padding: 0.5rem 0rem;
+     background-color: #f9f7ed;
+ }
+
+.navbar a:hover {
+    background-color:#f3f313;
+ }
+
+h1, h2, h3, h4, h5, h6 {
+     font-family: 'Noto Sans', sans-serif;
+}
+
+h1, .h1 {
+    font-size: 2.2em;
+    margin-top: 0.8rem;
+    margin-bottom: 1.5rem;
+}
+.dropdown-menu {
+    background-color: #f9f7ed;
+}
+
+.dropdown-menu a:hover {
+    color: black;
+    background-color:#f3f313;
+}
+
+.page-content {
+    padding: 5px;
+}
+
+.svg-icon {
+    padding-right: 0px;
+}
+
+.site-footer {
+    padding: 0px;
+}
+.footer-col-2 {
+    width: 160px;
+}
+
+iframe {
+    margin-bottom: 15px;
+}
+
+.carousel a, .slide a, .carousel-fade a {
+    border-bottom: none;
+}
+
+// article.post {
+//     /* fix width of post so that 
+//     measure is approx 60 characters wide */
+//     width: 530px; 
+//     margin: 0 auto;
+// }
