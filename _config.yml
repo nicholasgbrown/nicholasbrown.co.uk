@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nicholas Brown 
+title: Nicholas Brown
 email: nb@nicholasbrown.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Nicholas Brown - artist-composer, performer, writer
@@ -30,20 +30,26 @@ plugins:
 
 # header_pages:
 #   - biography.md
-#   - blog.html 
+#   - blog.html
 #   - portfolio.html
 #   - writing.md
-#   - catalogue.md 
+#   - catalogue.md
 
 collections:
-  portfolio:
+  work:
+    output: true
+  writing-works:
+    output: true
+  writing-essays:
+    output: true
+  writing-talksetc:
     output: true
 
 sass:
   sass_dir: assets
   style:    compressed
 
-destination: public  
+destination: public
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

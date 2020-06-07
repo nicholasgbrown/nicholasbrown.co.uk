@@ -1,0 +1,6 @@
+{% assign sortedWorkAll = (site.work | sort: 'date') | reverse %}
+{% for work in sortedWorkAll %}
+  <div class="side-menu">
+    <a href="{{ work.url }}">{{ work.title }}</a>
+    </div>
+{% endfor %}

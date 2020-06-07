@@ -1,0 +1,18 @@
+---
+layout: default
+title: All-Work
+---
+  <div class="works-section-title"><h3>Category: Acoustic</h3></div>
+<div class="works-wrapper">
+  {% assign sortedWorksByDate = site.work | sort: 'date' %}
+  {% assign reverse = sortedWorksByDate | reverse %}
+  {% for work in reverse %}
+  {% if work.tag == "acoustic" %}
+  <div class="works-box"><a href="{{ work.url }}">
+  <img src="{{ work.image_path }}" alt="{{ work.type }}" /></a>
+  <div class="works-title">{{ work.title }}</div>
+    </div>
+{% endif %}
+    {% endfor %}
+  </div>
+<!-- And then do an if statement that prints links to items that are tagged acoustic, but only prints text data - no images (unlike the visual work of electroacoustic and installation)     -->

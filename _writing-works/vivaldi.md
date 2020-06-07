@@ -1,0 +1,12 @@
+---
+layout: main-writing-work
+title: Vivaldi's Menagerie
+---
+
+# Vivaldi's Menagerie
+
+Vivaldi’s Menagerie (2003) is my response to the Orchestra of St John’s commission for a new concerto and the result of three lines of thought. First, I have been interested for some time in the difference between a fake and the real thing and influenced by the writings of social philosopher, Jean Baudrillard, on the subject of simulacra. Second, I am struck by the answer to the Zen question, ‘How do you paint Spring?’ as related by Master Dogen, one of the great spiritual giants of history: ‘When you paint Spring do not paint willows, plums, peaches or apricots, but just paint Spring.’ Third, I am stimulated by the idea that we may no longer speak of ‘content’ in art other than in terms of language.
+
+Vivaldi’s Four Seasons has been appropriated for this new work on account of its factitious sounds from the natural world and its undisputed status as a contemporary cultural icon, especially since the massive success of Nigel Kennedy’s recording. The musical content of Vivaldi’s Menagerie comes from the second concerto in Vivaldi’s series, L’Estate (‘Summer’), with the exception of the first eleven bars of the second violin part, which have been taken from the opening of the first concerto, La Primavera (‘Spring’), The solo violin part is principally a reworking of the music Vivaldi describes as representing the ‘weeping shepherd’ in reference to the sonnet, which underpins the original concerto. Therefore, the soloist may be interpreted as the Venetian violinist himself, simultaneously lionized and terrorized by a strange orchestra of wild beasts. However, an alternative interpretation refers to a secondary meaning of ‘menagerie’, namely, the place where a diverse group is housed. In this sense, the music is a container for those theories above, which have rise to the piece, as well as a series of real things: bad weather, a Venetian shepherd, a popstar violinist, eighteenth-century music, etc. By analogy, the work places an imaginary film projector behind the audience and means an old film of Vivaldi playing the violin onto a screen in the form of the musicians. Most of the film is visible, but not all of it, as there are scratches, imperfections and other signs of the celluloid’s age, which prevent a complete visual experience. Nonetheless, it is perhaps possible to ‘know’ what we are watching, since we are aided by our memory of the real thing.
+
+copyright © N.G.Brown 2003

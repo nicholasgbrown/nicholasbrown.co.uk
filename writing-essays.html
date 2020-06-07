@@ -1,0 +1,10 @@
+---
+layout: page
+title: Work
+---
+{% assign sortedEssays = site.writing-essays | sort: 'title' %}
+{% for work in sortedEssays %}
+<div>
+<h3><a href="{{ work.url }}">{{ work.title }}</a></h3>
+  </div>
+  {% endfor %}

@@ -1,0 +1,11 @@
+---
+layout: main-writing-work
+title: Five Actions for a Violinist
+---
+# Five Actions for a violinist
+
+According to Egyptian legend, Osiris’s body was divided into fourteen pieces by his brother, Typhon, who dispersed them across Egypt. Isis, wife of Osiris, set out to gather the pieces of the body, put them together again and become pregnant. In 2006, I made a transdisiplinary performance-piece, The Bravery of Women for violinist, Monica Germino, that uses the legend of Isis & Osiris as a metaphor for the process of rehearsing and performing a musical work. In The Bravery of Women, the violinist reassembles fragmented phrases from a Bach sonata. Just as Isis rebuilt the human form, so the violinist rebuilds a musical work.
+
+As a preparatory exercise, I wrote series of five text-scores, Five Actions for a Violinist, which were performed and captured in the form of still images on a digital camera. The frame-by-frame reconstruction of the performance of these scores, as moving images, follows Walter Benjamin’s observation that film ‘manages to assure us of an immense and unexpected field of action’. Indeed, I am particularly interested in the possibility that the camera permits a glimpse of what it is we do when we ‘do’ music. For if we think about music in terms of physical action and sound as the consequence of that action, we may consider musical performance in relation to the experiences of our daily lives. The violinist passes through physical encounters with her instrument in the course of performing. The sounds she makes are enriched by the resistance she meets as she is compelled to move. Overall, those sounds are the result of paths traced in moving from one state of being to another. They are like the flickering of light that meets our eyes with the changing frames of a film.
+
+The video sequences (and some of the text-scores on which they are based) of Five Actions for a Violinist were originally incorporated into live performances of The Bravery of Women, interlaced with other filmic material. However, in 2008, after The Bravery of Women had received a number of live performances, I put this film together by way of reassembling a complete performance of the text-scores in their original sequence, against the pre-recorded soundtrack from The Bravery of Women.

@@ -1,0 +1,10 @@
+---
+layout: page
+title: Work
+---
+{% assign sortedTalksetc = site.writing-talksetc | sort: 'date' %}
+{% for work in sortedTalksetc %}
+<div>
+<h3><a href="{{ work.url }}">{{ work.title }}</a></h3>
+  </div>
+  {% endfor %}

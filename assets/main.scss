@@ -1,27 +1,229 @@
 ---
 ---
-
  @import "minima";
-
  @import "bootstrap/bootstrap";
 
+/* ---HEADER---*/
+
+.site-header {
+  border: none;
+  padding-bottom: 5px;
+  min-height: 0px; // to cancel CSS in Minima file
+  height: 63px; // to reset height
+}
+
+.bg-info {
+  background-color: #f9f7ed !important;
+}
+
 .wrapper {
-    margin-top: 15px;
-} 
+  max-width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.title {
+ font-family: 'Passion One', cursive;
+ font-size: 2.2em;
+ margin-top: 22px;
+ margin-left: 46px;
+ margin-right: 5px;
+}
+
+/* ---NAVBAR---*/
+
+.top-flex-container {
+display: flex;
+justify-content: space-between;
+}
+
+.social-container {
+padding-right: 25px;
+}
+
+.nav-flex-container {
+  display: flex;
+  //justify-content: space-between;
+  padding-bottom: 5px;
+  // border-bottom: 1px dotted #660000;
+}
+
+.navbar {
+ font-family: 'Roboto', sans-serif;
+ font-size: 1em;
+ margin-left: 16px;
+}
+
+.navbar-collapse {
+  margin-top: 6px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+   color: black;
+}
+
+.navbar .navbar-expand-md .navbar-light {
+    max-width: 630px;
+    margin-left: -10px;
+    padding: 0.5rem 0rem;
+    background-color: #f9f7ed;
+}
+
+.navbar a:hover {
+    background-color:#f3f313;
+ }
+
+.dropdown a {
+    color: black;
+}
+
+.dropdown-menu {
+  font-size: 1em;
+      background-color: #f9f7ed;
+}
+
+.collapse {
+margin-left: -20px; // shift menu left 20px
+}
+
+.dropdown-menu a:hover {
+    color: black;
+    background-color:#f3f313;
+}
+
+/* ---PAGE CONTENT---*/
+.page-content {
+    padding: 5px;
+}
+
+/* ---FLEXBOX FOR MAIN CONTENT--- */
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  max-width: 1080px;
+}
+
+.side-content {
+  flex-basis: 300px; // width of side menu
+}
+
+.main-content {
+  padding-left: 25px;
+  flex-basis: 680px; // width of main content window
+  //flex-grow: 1;
+}
+
+/* ---MAIN CONTENT---*/
+
+@media screen and (min-width: 768px) {
+}
+
+
+/* ---SIDE MENU---*/
+
+.side-menu {
+  //flex: 33.3%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.8em;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #f9f7ed;
+  // padding-right: 1.5em;
+  //border-right: 1px dotted #660000;
+  line-height: 200%;
+  text-align: right;
+}
+
+.side-navbar {
+  padding-top: 0.8em;
+  padding-right: 25px;
+  // border-right: 4px solid #000;
+}
+
+.side-navbar a:hover {
+    color: black;
+    background-color:#f3f313;
+}
+
+.side-navbar-list {
+   list-style-type: none;
+}
+
+.side-navbar-item {
+}
+
+/* ---STYLING FOR WORKS PAGE--- */
+
+.works-wrapper {
+  max-width: 940px;
+  //max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  // justify-content: flex-end;
+}
+
+.works-section-title {
+max-width: 960px;
+margin: 0 auto;
+}
+
+.works-section-title h3 {
+  margin: 5px;
+  padding: 8px 8px 8px 8px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+  // font-weight: bold;
+  // text-transform: uppercase;
+  // border-bottom: 3px solid black;
+}
+
+.works-box {
+  // background: #e6e4da;
+  // background: #fff;
+  // border: 1px solid grey;
+  // border-radius: 3px;
+  margin: 5px;
+  padding: 8px 8px 0px 8px;
+  max-width: 300px;
+}
+
+.works-title {
+  padding-top: 5px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.8em;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 125%;
+}
+
+.works-image {
+border: 1px solid #555;
+
+}
+
+a:hover img {
+    opacity: 0.6;
+}
+
+/* ---MEDIA STYLING---*/
 
 img {
     margin-top: 0px;
-    margin-bottom: 25px;
+  //  margin-bottom: 25px;
 }
-body {
-background-color: #f9f7ed;
-font-family: 'Inconsolata', monospace;
- }
 
- a, a:visited, a:hover {
-     color: black; 
-     text-decoration: none;
- }
+.svg-icon {
+    padding-right: 0px;
+}
+
+/* ---POST CONTENT---*/
+
+.post-content {
+max-width: 630px;
+margin: 0 auto;
+}
 
  .post a {
     border-bottom: 1px dotted #660000;
@@ -31,53 +233,58 @@ font-family: 'Inconsolata', monospace;
      border-bottom: 1px solid #660000;
  }
 
- .dropdown a {
+ .post-content h2, .h2 {
+     font-size: 2em;
+     line-height: 1.25em;
+ }
+
+ .post-content h3, .h3 {
+     font-size: 1.5em;
+     line-height: 1.25em;
+ }
+
+ .post-content h4, .h4 {
+     font-size: 1.125em;
+     line-height: 1.22em;
+ }
+
+/*---FOOTER---*/
+
+ .site-footer {
+   border: none;
+ }
+
+ .site-footer {
+     padding: 0px;
+ }
+ .footer-col-2 {
+     width: 160px;
+ }
+
+/*---TYPOGRAPHY---*/
+
+body {
+  font-family: 'Merriweather', serif;
+background-color: #f9f7ed;
+font-size: 16px;
+line-height: 150%;
+ }
+
+ a, a:visited, a:hover {
      color: black;
- }
-
- .navbar-light .navbar-nav .nav-link {
-    color: black;
- }
- .navbar {
-     padding: 0.5rem 0rem;
-     background-color: #f9f7ed;
- }
-
-.navbar a:hover {
-    background-color:#f3f313;
+     text-decoration: none;
  }
 
 h1, h2, h3, h4, h5, h6 {
-     font-family: 'Noto Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1, .h1 {
-    font-size: 2.2em;
-    margin-top: 0.8rem;
+    font-size: 2.5em;
+    padding-bottom: 0.35rem;
+    line-height: 150%;
+    border-bottom: 1px dotted #000;
     margin-bottom: 1.5rem;
-}
-.dropdown-menu {
-    background-color: #f9f7ed;
-}
-
-.dropdown-menu a:hover {
-    color: black;
-    background-color:#f3f313;
-}
-
-.page-content {
-    padding: 5px;
-}
-
-.svg-icon {
-    padding-right: 0px;
-}
-
-.site-footer {
-    padding: 0px;
-}
-.footer-col-2 {
-    width: 160px;
 }
 
 iframe {
@@ -88,9 +295,89 @@ iframe {
     border-bottom: none;
 }
 
+/* ---SPLASH PAGE CSS IMAGE-GRID---*/
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 2px;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.3%;
+  max-width: 33.3%;
+  padding: 0 2px;
+}
+
+.column img {
+  margin-top: 0px;
+  margin-bottom: 4px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+// @media screen and (max-width: 800px) {
+//   .column {
+//     flex: 50%;
+//     max-width: 50%;
+//   }
+// }
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 375px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+/* ---SOCIAL MEDIA LINKS FOOTER--- */
+
+.footer-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  padding: 0 2px;
+  margin-top: 15px;
+  margin-right: -25px;
+}
+
+/* Create three equal columns that sits next to each other */
+.footer-column {
+  margin-right: 15px;
+  // flex: 16%;
+  // max-width: 35%;
+  // padding: 0 2px;
+}
+
+.column img {
+  margin-top: 0px;
+  margin-bottom: 4px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+// @media screen and (max-width: 800px) {
+//   .column {
+//     flex: 25%;
+//     max-width: 25%;
+//   }
+// }
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+// @media screen and (max-width: 600px) {
+//   .column {
+//     flex: 50%;
+//     max-width: 50%;
+//   }
+// }
+
 // article.post {
-//     /* fix width of post so that 
+//     /* fix width of post so that
 //     measure is approx 60 characters wide */
-//     width: 530px; 
+//     width: 530px;
 //     margin: 0 auto;
 // }
