@@ -1,9 +1,9 @@
 ---
 layout: page-work
-tag: acoustic
+tag: film-music
 title: Bookcruncher (2002)
 date: 2002-01-01
-image_path: ../images/splash-imgs/chit-chat.jpg
+image_path: ../images/splash-imgs/bookcruncher.jpg
 url: /work/2002_bookcruncher.html
 ---
 # Bookcruncher

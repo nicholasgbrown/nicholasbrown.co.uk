@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The Undulatory Theory of Light (2018)
-url: /undulatory.html
+title: Catalogue
 ---
+  <br><br>
 ### Structural Cohesion (2019)
 Performance. Two singers, chorus, piano, live electronics c.15 mins.
 <br><br>
@@ -68,12 +68,12 @@ seven sopranos, CD, PA system. 6 mins.
 piano, lighting, cd, PA system. 6 mins.
 <br><br>
 
-### As I Have Now Memoyre (2008)
-two singers, installation, multi-channel electronics. 60 mins.
+### Bird Chamber (2009)
+wood, polythene, bird boxes, electronics.
 <br><br>
 
-### Bird Chamber (2008)
-wood, polythene, bird boxes, electronics.
+### As I Have Now Memoyre (2008)
+two singers, installation, multi-channel electronics. 60 mins.
 <br><br>
 
 ### The Soul Finds Rest in Unity (2007)
@@ -116,11 +116,6 @@ digital video
 10 mins
 <br><br>
 
-### Two Pieces from Songs from the Sky (2004)
-unaccompanied choir
-8 mins
-<br><br>
-
 ### Songs from the Sky (2004)
 actors, choir, instruments, electronics
 35 mins
@@ -147,11 +142,18 @@ saxophone, piano
 <br><br>
 
 ### Bookcruncher (2002)
+music for the film by Dan Wilde
 string quartet, piano
 29 mins
 <br><br>
 
+### The Truck (2002)
+Music for the film by Jasper Goldman
+electronic soundtrack
+<br><br>
+
 ### After Death (2001)
+music for the 1918 film by Evgenii Bauer
 piano trio
 44 mins
 <br><br>
@@ -166,12 +168,17 @@ unaccompanied choir
 8 mins
 <br><br>
 
+### Mirabile Misterium (2001)
+choir and organ
+<br><br>
+
 ### The Lily-White Rose (2000)
 male vocal consort
 5 mins
 <br><br>
 
 ### Lady Windermere’s Fan (2000)
+music for the 1916 silent film by Fred Paul
 piano trio
 62 mins
 <br><br>
@@ -181,35 +188,9 @@ unaccompanied choir
 5 mins
 <br><br>
 
-### The Magdalen Service (1995/9)
-men minss voices (unaccompanied)
-12 mins
-<br><br>
-
-### The Rainbow Book (1999)
-piano, actor
-18 mins
-<br><br>
-
 ### The House of the Hanged Man (1998)
 piano trio
 12 mins
-<br><br>
-
-### Devouring Time (1998)
-tenor, piano
-8 mins
-[alternative version for counter-tenor available]
-<br><br>
-
-### Tryst (1998)
-piano
-5 mins
-<br><br>
-
-### Four Mayan Prophecies (1997)
-tenor, piano
-10 mins
 <br><br>
 
 ### The Divine Image (1997)
@@ -222,31 +203,7 @@ men’s voices (unaccompanied)
 6 mins
 <br><br>
 
-### Four Marian Antiphons (1995)
-unaccompanied choir
-8 mins
+### The Magdalen Service (1995/9)
+men's voices (unaccompanied)<br>
+12 mins
 <br><br>
-
-### I Sing of a Maiden (1995)
-six vocal soloists, choir, chamber orchestra
-65 mins
-<br><br>
-
-### Two Songs (1995)
-high voice, piano
-3 mins
-<br><br>
-
-### Pater Noster (1995)
-unaccompanied choir
-5 mins
-<br><br>
-
-### Five Intimations (1995)
-cello, piano
-15 mins
-<br><br>
-
-### Lycidas (1994)
-tenor, cello, choir, chamber orchestra
-58 mins
